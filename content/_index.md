@@ -36,12 +36,14 @@ sections:
       subtitle: ''
       text: |-
         My recent research investigates human-AI collaborative learning environments through two interconnected strands:
+        
         1. Understanding Student-AI Interaction Dynamics
         I examine how learners interact with AI agents across pedagogical roles (i.e., as teachers, peers) for knowledge acquisition and problem-solving, analyzing distinctive behavioral patterns, communication dynamics, and how individual differences (e.g., prior knowledge, cognitive styles) and AI literacy mediate these interactions. I am interested in identifying which learner profiles benefit most from specific AI configurations and why.
         2. Optimizing AI-Enhanced Learning
         I explore principled approaches to designing AI tools and environments that maximize learning effectiveness by investigating how different AI design features impact engagement and comparing outcomes of various AI-mediated pedagogical strategies.
         3.	Advancing Educational Research Through AI
         I develop and validate AI-assisted methods to expand educational research capabilities, including AI-facilitated data collection techniques (e.g., conversational agents for interviews) and automated analysis frameworks (e.g., automatic qualitative coding).
+
         Please feel free to reach out for collaboration or detailed information😃
     design:
       columns: '1'
