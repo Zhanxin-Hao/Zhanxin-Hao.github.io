@@ -1,12 +1,17 @@
 ---
 title: "Student engagement in collaborative learning with AI agents in an LLM-empowered learning environment: A cluster analysis"
 authors:
-- admin
+- Zhanxin Hao
+- Jianxiao Jiang
+- Jifan Yu
+- Zhiyuan Liu
+- Yu Zhang
 date: "2025-03-03T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2503.01694"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-12-31T00:00:00Z"
+weight: 4
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,9 +28,7 @@ abstract: "Integrating LLM models into educational practice fosters personalized
 # summary: 
 
 tags:
-- Large Language Models
-- Human-AI Collaborative Learning
-- MAIC
+- Individual Differences
 
 featured: true
 

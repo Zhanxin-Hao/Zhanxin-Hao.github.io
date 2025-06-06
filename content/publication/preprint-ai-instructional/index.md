@@ -1,12 +1,17 @@
 ---
 title: "AI instructional agent improves student's perceived learner control and learning outcome: empirical evidence from a randomized controlled trial"
 authors:
-- admin
+- Fei Qin
+- Zhanxin Hao
+- Jifan Yu
+- Zhiyuan Liu
+- Yu Zhang
 date: "2025-05-28T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2505.22526"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-12-29T00:00:00Z"
+weight: 2
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

@@ -1,12 +1,16 @@
 ---
 title: "Unpacking Graduate Students' Learning Experience with Generative AI Teaching Assistant in A Quantitative Methodology Course"
 authors:
-- admin
+- Zhanxin Hao
+- Haifeng Luo
+- Yongyi Chen
+- Yu Zhang
 date: "2025-06-03T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2506.02966"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-12-28T00:00:00Z"
+weight: 1
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,9 +27,7 @@ abstract: "The study was conducted in an Advanced Quantitative Research Methods 
 # summary: 
 
 tags:
-- Large Language Models
-- Human-AI Collaborative Learning
-- MAIC
+- 24h AI Teaching Assistant
 
 featured: true
 

@@ -1,12 +1,18 @@
 ---
 title: "Mapping Student-AI Interaction Dynamics in Multi-Agent Learning Environments: Supporting Personalised Learning and Reducing Performance Gaps"
 authors:
-- admin
+- Zhanxin Hao
+- Jie Cao
+- Ruimiao Li
+- Jifan Yu
+- Zhiyuan Liu
+- Yu Zhang
 date: "2025-06-03T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2506.02993"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-12-30T00:00:00Z"
+weight: 3
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,9 +29,7 @@ abstract: "Multi-agent AI systems, which simulate diverse instructional roles su
 # summary: 
 
 tags:
-- Large Language Models
-- Human-AI Collaborative Learning
-- MAIC
+- Student-AI Interaction
 
 featured: true
 
