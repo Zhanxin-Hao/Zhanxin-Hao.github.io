@@ -9,7 +9,7 @@ date: "2023-11-06T00:00:00Z"
 doi: "https://doi.org/10.1080/13603116.2023.2274112"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-11-06"
+# publishDate: "2023-11-06"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +17,7 @@ publishDate: "2023-11-06"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "*Journal of Source Themes, 1*(1)"
+publication: "*International Journal of Inclusive Education*, Volume 29, 2025 - Issue 5"
 #publication_short: ""
 
 abstract: Disruption of the status quo caused by the pandemic in England provides a lens to view the priorities embedded in the qualifications system. The Government’s initial priority was to avert grade inflation, followed by a populist turn to teacher assessment after a widespread backlash. Subsequent Government arguments for the return to examinations as the fairest way to assess re-introduced policies which emphasised excellence agenda. Learning loss, a consequence of the pandemic, compounded pre-existing patterns of inequality. Inclusive policies to address this in the qualification system would require fundamentally different ways of thinking compared to, for example, the current adaptations that are made for young people with special educational needs because the modern inclusion agenda is broader. The excellence agenda assumes a competitive system in which educational resources must be rationed; that there will be winners and losers. We question this logic, arguing for principles that would underpin a more inclusive qualification system. Since 2015, pupils must stay in education or training until they are 18. Thus, at very least, rationing educational access before this is unwarranted. A modern approach would be more flexible, putting learners first and embrace diversity rather than standardisation as the main principle for fair assessment.
@@ -63,7 +63,7 @@ url_pdf: https://www.tandfonline.com/doi/epdf/10.1080/13603116.2023.2274112?need
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -71,4 +71,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
